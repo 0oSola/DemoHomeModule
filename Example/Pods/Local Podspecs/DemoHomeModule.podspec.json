@@ -1,0 +1,22 @@
+{
+  "name": "DemoHomeModule",
+  "version": "0.1.0",
+  "summary": "A short description of DemoHomeModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/acct<blob>=<NULL>/DemoHomeModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "acct<blob>=<NULL>": "63364452@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/acct<blob>=<NULL>/DemoHomeModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DemoHomeModule/Classes/**/*"
+}
